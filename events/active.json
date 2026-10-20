@@ -1,0 +1,49 @@
+{
+  "slug": "karthika-catering-service-vadakkencherry",
+  "name": "Karthika Catering Service",
+  "shortName": "Karthika",
+  "descriptor": "Catering Services",
+  "address": "JCCV+MR6, Kannambra-I, Keralam 678686",
+  "area": "Kannambra",
+  "city": "Vadakkencherry",
+  "district": "Palakkad",
+  "region": "Kerala",
+  "postalCode": "678686",
+  "geo": {
+    "lat": 10.6223639,
+    "lng": 76.4453135
+  },
+  "mapsLink": "https://maps.google.com/?cid=13534961600950029235",
+  "phone": "+91 99473 54349",
+  "whatsapp": "919947354349",
+  "hours": "Open 6 am – 10 pm · all days",
+  "opens": "06:00",
+  "closes": "22:00",
+  "rating": 4.5,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "name": "sarath Kumar",
+      "rating": 5,
+      "quote": "Highly recommended! The food was very tasty,🤤🤤 fresh, and well prepared. 🍲Great service and good quality. Definitely worth trying!” ⭐⭐⭐⭐⭐"
+    },
+    {
+      "name": "Praveena pranav",
+      "rating": 5,
+      "quote": "One of the best experiences—delicious food and wonderful customer service."
+    },
+    {
+      "name": "Sudheesh k",
+      "rating": 5,
+      "quote": "Deliciousfood.I really like it."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://karthika-catering-service-vadakkenc.vercel.app"
+}
